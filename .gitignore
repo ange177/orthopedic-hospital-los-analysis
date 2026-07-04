@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Raw data excluded for privacy - see data/README.md for schema
+data/*.csv
+*.docx
