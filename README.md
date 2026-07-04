@@ -59,6 +59,7 @@ Osteomyelitis (bone infection) and post-immunization infection carry the highest
 - Supplemented with an ICD-10 lookup table (71,704 codes) to map diagnosis codes to readable categories
 - **Raw data is not included in this repository** — the source dataset contains internal hospital record/protocol numbers that are pseudonymous but not fully anonymous, so it's excluded here for privacy. The full column schema is documented in [`data/README.md`](data/README.md) so the pipeline is reproducible against any dataset with a matching structure.
 - ✅ No patient names, dates of birth, or addresses are present in the dataset at any point in this analysis
+- Aggregate-only summary tables (no row-level data, no identifiers) are available in [`outputs/summary_tables/`](outputs/summary_tables/) for anyone who wants the underlying numbers without the raw data
 
 ## 🔬 Statistical Methods & Tools
 

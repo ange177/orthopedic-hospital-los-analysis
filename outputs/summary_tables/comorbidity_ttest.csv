@@ -1,0 +1,2 @@
+mean_los_with_comorbidities,mean_los_without_comorbidities,n_with,n_without,t_stat,p_value
+7.96,7.58,40248,39178,2.93,0.0034
