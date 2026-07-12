@@ -1,4 +1,4 @@
-# Orthopaedic Length of Stay Analysis & Discharge Planning Insights
+# Analysing Predictors of Patient Length of Stay in an Orthopaedic Hospital
 
 A statistical analysis of 79,000+ real orthopaedic hospital admissions, built to identify the operational drivers of Length of Stay (LOS) and support bed-capacity, surgical-scheduling, and discharge-planning decisions.
 
